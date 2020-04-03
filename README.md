@@ -2,7 +2,7 @@
 
 # توجه
 
- به نبال اعمال محدودیت علیه کاربران ایرانی توسط گیت‌هاب در مردادماه ۹۸، این مخزن به گیت‌لب منتقل شده است. نشانی مخزن جدید: https://gitlab.com/ahangarha/IranianCompaniesWithFreeSoftware
+ به دنبال اعمال محدودیت علیه کاربران ایرانی توسط گیت‌هاب در مردادماه ۹۸، این مخزن به گیت‌لب منتقل شده است. نشانی مخزن جدید: https://gitlab.com/ahangarha/IranianCompaniesWithFreeSoftware
 
 
 # درباره
